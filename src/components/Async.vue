@@ -1,3 +1,7 @@
+<script setup>
+import Welcome from './TheWelcome.vue'
+</script>
+
 <template>
-    <p>我是异步的</p>
+    <Welcome />
 </template>
